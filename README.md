@@ -5,7 +5,7 @@
 
 - 🔭 I’m also working on **a ethereum smart contract bot!**
 
-- 🌱 I’m currently learning **Angular in my freetime.**
+- 🌱 I’m currently learning **one line of code at a time.**
 
 
 <p align="left">
